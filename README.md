@@ -1,5 +1,6 @@
 # boombike_niha_patne
-# PROBLEM STATEMENT: The objective is to analyze the factors on which the demand for these shared bikes depends and the demand for these bikes among the people after this ongoing quarantine situation ends. 
+# PROBLEM STATEMENT: 
+The objective is to analyze the factors on which the demand for these shared bikes depends and the demand for these bikes among the people after this ongoing quarantine situation ends. 
 
 # SUMMARY:
 ## Technical Aspect -
